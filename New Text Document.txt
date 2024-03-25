@@ -4,4 +4,7 @@ int e = 1;
 int c = 10;
 int d = 20;
 int f = 34;
+int a = 2;
+int b = 1;
 }
+
