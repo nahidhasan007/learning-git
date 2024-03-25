@@ -1,3 +1,7 @@
 void sort(){
 print("hello world! Nahid")
+
+int c = 10;
+int d = 20;
+
 }
