@@ -3,5 +3,8 @@ print("hello world! Nahid")
 
 int a = 2;
 int b = 1;
+int c = 10;
+int d = 20;
 
 }
+
